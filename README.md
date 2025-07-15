@@ -1,4 +1,4 @@
-## Olá, eu sou o João! 👋
+## Hellou, me chamo João! 👋
 
 🎓 Técnico em Informática | Graduando em Sistemas de Informação.  
 💻 Apaixonado por tecnologia, desenvolvimento de software e criação de soluções práticas.  
