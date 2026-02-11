@@ -1,6 +1,6 @@
 ## Hellou, me chamo João! 👋
 
-🎓 Técnico em Informática | Graduando em Sistemas de Informação.  
+🎓 Técnico em Informática | Cursando Análise e Desenvolvimento de Sistemas. 
 💻 Apaixonado por tecnologia, desenvolvimento de software e criação de soluções práticas.  
 🚀 Em constante evolução, buscando sempre novos desafios e aprendizados.
 
