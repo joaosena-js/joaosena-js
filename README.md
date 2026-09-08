@@ -7,7 +7,7 @@
 ### Tecnologias que estou práticando:
 <div style="display: inline_block">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,figma"/>
   </a>
 </div>
 
