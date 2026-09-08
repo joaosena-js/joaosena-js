@@ -1,7 +1,7 @@
 ## Hellou, me chamo João! 👋
 
-🎓 Técnico em Informática | Cursando Análise e Desenvolvimento de Sistemas. 
-💻 Apaixonado por tecnologia, desenvolvimento de software e criação de soluções práticas.  
+🎓 Técnico em Informática | Cursando Análise e Desenvolvimento de Sistemas. <br>
+💻 Apaixonado por tecnologia, desenvolvimento de software e criação de soluções práticas.<br>
 🚀 Em constante evolução, buscando sempre novos desafios e aprendizados.
 
 ### Tecnologias que estou práticando:
